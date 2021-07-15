@@ -1,0 +1,78 @@
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\WebApi.dll.config
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\WebApi.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\WebApi.pdb
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\Antlr3.Runtime.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\Newtonsoft.Json.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.Helpers.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.Http.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.Mvc.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.Optimization.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.Razor.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.WebPages.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\WebGrease.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\Newtonsoft.Json.xml
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.Helpers.xml
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.Http.xml
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.Mvc.xml
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.Optimization.xml
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.Razor.xml
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.WebPages.xml
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\obj\Debug\WebApi.dll
+c:\users\auttaporn.t\documents\visual studio 2013\Projects\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\auttaporn.t\Desktop\WebApi\bin\WebApi.dll.config
+C:\Users\auttaporn.t\Desktop\WebApi\bin\WebApi.dll
+C:\Users\auttaporn.t\Desktop\WebApi\bin\WebApi.pdb
+C:\Users\auttaporn.t\Desktop\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\auttaporn.t\Desktop\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\auttaporn.t\Desktop\WebApi\bin\System.Web.Mvc.dll
+C:\Users\auttaporn.t\Desktop\WebApi\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\auttaporn.t\Desktop\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\auttaporn.t\Desktop\WebApi\bin\System.Web.Helpers.xml
+C:\Users\auttaporn.t\Desktop\WebApi\bin\System.Web.Http.xml
+C:\Users\auttaporn.t\Desktop\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\auttaporn.t\Desktop\WebApi\bin\System.Web.Optimization.xml
+C:\Users\auttaporn.t\Desktop\WebApi\bin\System.Web.Razor.xml
+C:\Users\auttaporn.t\Desktop\WebApi\bin\System.Web.WebPages.xml
+C:\Users\auttaporn.t\Desktop\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\auttaporn.t\Desktop\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\auttaporn.t\Desktop\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\auttaporn.t\Desktop\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\auttaporn.t\Desktop\WebApi\obj\Debug\WebApi.dll
+C:\Users\auttaporn.t\Desktop\WebApi\obj\Debug\WebApi.pdb
+D:\WebApi\bin\WebApi.dll.config
+D:\WebApi\bin\WebApi.dll
+D:\WebApi\bin\WebApi.pdb
+D:\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\WebApi\bin\Newtonsoft.Json.dll
+D:\WebApi\bin\System.Web.Mvc.dll
+D:\WebApi\bin\Microsoft.Web.Infrastructure.xml
+D:\WebApi\obj\Debug\WebApi.dll
+D:\WebApi\obj\Debug\WebApi.pdb
+D:\WebApi\bin\UsersUtil.dll
+D:\WebApi\bin\UsersUtil.pdb
+D:\WebApi\bin\UsersUtil.xml
+D:\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\Dotnet-Api\WebApi\bin\WebApi.dll.config
+D:\Dotnet-Api\WebApi\bin\WebApi.dll
+D:\Dotnet-Api\WebApi\bin\WebApi.pdb
+D:\Dotnet-Api\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Dotnet-Api\WebApi\bin\Newtonsoft.Json.dll
+D:\Dotnet-Api\WebApi\bin\System.Web.Mvc.dll
+D:\Dotnet-Api\WebApi\bin\UsersUtil.dll
+D:\Dotnet-Api\WebApi\bin\UsersUtil.pdb
+D:\Dotnet-Api\WebApi\bin\UsersUtil.xml
+D:\Dotnet-Api\WebApi\bin\Microsoft.Web.Infrastructure.xml
+D:\Dotnet-Api\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\Dotnet-Api\WebApi\obj\Debug\WebApi.dll
+D:\Dotnet-Api\WebApi\obj\Debug\WebApi.pdb
